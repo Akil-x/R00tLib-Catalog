@@ -10,3 +10,4 @@ BOOKS.json
 test_*.py
 inspect_*.py
 check_*.py
+modal_*.py
